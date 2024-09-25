@@ -1,0 +1,43 @@
+nav{
+    background-color: black;
+    color: white;
+    padding: 60px;
+    text-align: center;
+    display: block;
+}
+
+.box{
+    border-color: black;
+    border-width: 10px;
+    border-style:solid;
+    display: inline-block;
+    padding: 40px;
+    margin-top: 80px;
+    margin-left: 50px;
+    text-align: center;
+}
+
+.box:hover{
+ background-color: black;
+ color: white;
+}
+
+.box button{
+    background-color:yellowgreen;
+    padding: 20px;
+}
+
+.log{ 
+    background-color: black;
+    color: white;
+    text-align: center;  
+    display:block;
+}
+ .one input{
+    background-color: yellow;
+    padding: width 60px;
+    width: 400px;
+    height: 30px;
+    text-align: center; 
+    
+ }
