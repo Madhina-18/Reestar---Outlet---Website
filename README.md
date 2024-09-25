@@ -1,6 +1,5 @@
 # Reestar-Outlet-Website
 
-# Restaurant Website
 Hello All...!Welcome Once again to My Webpage...!
 This is my second website project—a restaurant website built using HTML and CSS.
 
